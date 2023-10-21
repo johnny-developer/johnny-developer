@@ -1,4 +1,28 @@
-### Hi there 👋
+### Hi, I'm Jonathan Eduardo Ibarra Martinez! 👋
+
+I am a passionate junior developer with a focus on backend development.
+
+### 💼 Experience
+
+- 👨‍💻 Working on web application development projects.
+- 📚 Continuously learning and improving my skills in Java and Spring Boot.
+- 🌐 Passionate about web service and API development.
+- 🖥️ In the process of learning Linux and cybersecurity.
+
+### 🛠️ Technologies
+
+- ♨️ Java
+- 🍃 Spring Boot
+- 🐘 PostgreSQL
+- 🅰️ Angular
+- 🍃 Thymeleaf
+- 🌐 Servicios web
+
+### 📫 Contact Me
+
+<!--
+- [LinkedIn](https://www.linkedin.com/in/tu-nombre) -->
+- Email: jonnymartinez.pzl1@gmail.com
 
 <!--
 **jonhdevelop/jonhdevelop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
