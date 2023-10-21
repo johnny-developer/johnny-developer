@@ -6,8 +6,8 @@ I am a passionate junior developer with a focus on backend development.
 
 - 👨‍💻 Working on web application development projects.
 - 📚 Continuously learning and improving my skills in Java and Spring Boot.
-- 🌐 Passionate about web service and API development.
-- 🖥️ In the process of learning Linux and cybersecurity.
+- 🌐 Passionate about API development.
+- 🖥️ In the process of learning Linux, Docker and AWS.
 
 ### 🛠️ Technologies
 
@@ -16,9 +16,9 @@ I am a passionate junior developer with a focus on backend development.
 - 🐘 PostgreSQL
 - 🅰️ Angular
 - 🍃 Thymeleaf
-- 🌐 Servicios web
+- 🌐 Web Services
 
-### 📫 Contact Me
+### 📫 Contact
 
 <!--
 - [LinkedIn](https://www.linkedin.com/in/tu-nombre) -->
