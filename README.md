@@ -14,9 +14,9 @@ I am a passionate junior developer with a focus on backend development.
 - ♨️ Java
 - 🍃 Spring Boot
 - 🐘 PostgreSQL
-- 🅰️ Angular
-- 🍃 Thymeleaf
 - 🌐 Web Services
+- 🅰️ Angular
+- 🚀 Git
 
 ### 📫 Contact
 
