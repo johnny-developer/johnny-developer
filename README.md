@@ -22,7 +22,7 @@ I am a passionate junior developer with a focus on backend development.
 
 <!--
 - [LinkedIn](https://www.linkedin.com/in/tu-nombre) -->
-- Site Personal: https://bulbassur-dev.github.io
+- Site Personal: https://bulbasaur-dev.github.io
 - Email: jonnymartinez.pzl1@gmail.com
 - 
 
