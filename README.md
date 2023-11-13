@@ -22,9 +22,8 @@ I am a passionate junior developer with a focus on backend development.
 
 <!--
 - [LinkedIn](https://www.linkedin.com/in/tu-nombre) -->
-- Site Personal: https://bulbasaur-dev.github.io
+- Site Personal: https://johnny-debeloper.github.io/
 - Email: jonnymartinez.pzl1@gmail.com
-- 
 
 <!--
 **jonhdevelop/jonhdevelop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
